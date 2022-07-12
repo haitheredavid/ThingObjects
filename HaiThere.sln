@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThingKit", "ThingKit\ThingKit.csproj", "{0BF5D0F2-739B-47C1-9DE3-B0297E2A4288}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThingNoKit", "ThingNoKit\ThingNoKit.csproj", "{AB4CBD23-3191-47EC-81F4-07130B33D524}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThingTest", "ThingTest\ThingTest.csproj", "{DB85A0CB-0BA6-4C55-AC66-87A911AB3001}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BF5D0F2-739B-47C1-9DE3-B0297E2A4288}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BF5D0F2-739B-47C1-9DE3-B0297E2A4288}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BF5D0F2-739B-47C1-9DE3-B0297E2A4288}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BF5D0F2-739B-47C1-9DE3-B0297E2A4288}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB4CBD23-3191-47EC-81F4-07130B33D524}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB4CBD23-3191-47EC-81F4-07130B33D524}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB4CBD23-3191-47EC-81F4-07130B33D524}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB4CBD23-3191-47EC-81F4-07130B33D524}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB85A0CB-0BA6-4C55-AC66-87A911AB3001}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB85A0CB-0BA6-4C55-AC66-87A911AB3001}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB85A0CB-0BA6-4C55-AC66-87A911AB3001}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB85A0CB-0BA6-4C55-AC66-87A911AB3001}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
